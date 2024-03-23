@@ -3,7 +3,7 @@ Idle non steam games and others!
 
 
 ## Create a Shell Script (.sh)
-First, create a custom bash script. You can do it like how I do below.
+First, create a custom shell script. You can do it like how I do below.
 For examples: 
 
 ```Bash
