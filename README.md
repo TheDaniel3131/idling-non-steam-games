@@ -39,7 +39,7 @@ Add firefox by clicking add a game at the bottom left of your Steam library.
 
 <br />
 
-Browse the shortcut Firefox's file location.    
+Browse the shortcut Firefox's file location. But before that, make sure rename Firefox to any name you want. For example: Watching VCT Madrid 2024.
 
 ![image](https://github.com/TheDaniel3131/idling-non-steam-games/assets/71692327/2e8bfe13-7a23-46a0-926c-d90b5d748c63)
 
