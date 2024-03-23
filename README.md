@@ -58,7 +58,7 @@ After that, go to the properties. You can edit the application name to what you 
 <br />
 
 
-And that is all, just run the application and it will work out. Enjoy your idle time while showing your status in Steam!
+#### And that is all, just run the application and it will work out. Enjoy your idle time while showing your status in Steam!
 
 
 <br />
