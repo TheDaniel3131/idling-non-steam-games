@@ -13,7 +13,7 @@ For examples:
 while true
 do
 	echo -e "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
-	now=$(date +"%Y-%m-%d %H:%M:%S")
+	now = $(date +"%Y-%m-%d %H:%M:%S")
     	echo -e "Date & Time: $now"
 	sleep 1
 done
@@ -23,10 +23,10 @@ done
 #!/bin/bash
 function watching {
 	echo -e "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
-	now=$(date +"%Y-%m-%d %H:%M:%S")
-    echo -e "Date & Time: $now"
+	now = $(date +"%Y-%m-%d %H:%M:%S")
+    	echo -e "Date & Time: $now"
 	sleep 0.99
-	watch_match
+	watching
 }
 watching
 ```
