@@ -1,6 +1,8 @@
 # idling-non-steam-games
-Idle non steam games and others!
 
+#### Start Idling other games that are not supported in Steam or other applications to showcase your status in Steam! 
+
+<hr>
 
 ## Create a Shell Script (.sh)
 First, create a custom shell script. You can do it like how I do below.
@@ -41,7 +43,7 @@ Add firefox by clicking add a game at the bottom left of your Steam library.
 
 Browse the shortcut Firefox's file location. But before that, make sure rename Firefox to any name you want. For example: Watching VCT Madrid 2024.
 
-![image](https://github.com/TheDaniel3131/idling-non-steam-games/assets/71692327/2e8bfe13-7a23-46a0-926c-d90b5d748c63)
+![image](https://github.com/TheDaniel3131/idling-non-steam-games/assets/71692327/e7a304b2-eb0d-4552-abc8-49b3b47adaec)
 
 <br />
 
