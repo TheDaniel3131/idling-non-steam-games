@@ -43,6 +43,19 @@ Browse the shortcut Firefox's file location. But before that, make sure rename F
 
 ![image](https://github.com/TheDaniel3131/idling-non-steam-games/assets/71692327/2e8bfe13-7a23-46a0-926c-d90b5d748c63)
 
+<br />
+
+After that, go to the properties. You can edit the application name to what you want. Also, change those paths to where you put your shell script.
+
+![image](https://github.com/TheDaniel3131/idling-non-steam-games/assets/71692327/ea0e9d38-e29a-47c7-b527-863b76c2ef91)
+
+<br />
+
+![image](https://github.com/TheDaniel3131/idling-non-steam-games/assets/71692327/d9dea566-06b6-4527-8721-e67a80099a51)
+
+<br />
+
+
 
 
 
