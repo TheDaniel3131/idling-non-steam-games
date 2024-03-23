@@ -2,9 +2,9 @@
 Idle non steam games and others!
 
 
-How it works?
+## Create a Shell Script (.sh)
 First, create a custom bash script. You can do it like how I do below.
-For example: 
+For examples: 
 
 ```Bash
 #!/bin/bash
@@ -13,6 +13,18 @@ do
 	echo -e "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
 	now=$(date +"%Y-%m-%d %H:%M:%S")
     	echo -e "Date & Time: $now"
-	sleep 0.99
+	sleep 1
 done
+```
+
+```Bash
+#!/bin/bash
+function watching {
+	echo -e "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
+	now=$(date +"%Y-%m-%d %H:%M:%S")
+    echo -e "Date & Time: $now"
+	sleep 0.99
+	watch_match
+}
+watching
 ```
