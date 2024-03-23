@@ -11,7 +11,9 @@ For example:
 
 while true
 do
-	echo "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
-    sleep 2
+	echo -e "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
+	now=$(date +"%Y-%m-%d %H:%M:%S")
+    echo -e "Date & Time: $now\n"
+	sleep 0.99
 done
 ```
