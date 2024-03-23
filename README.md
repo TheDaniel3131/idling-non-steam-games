@@ -10,10 +10,12 @@ For example:
 #!/bin/bash
 
 while true
+
 do
 	echo -e "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
 	now=$(date +"%Y-%m-%d %H:%M:%S")
     	echo -e "Date & Time: $now\n"
 	sleep 0.99
+
 done
 ```
