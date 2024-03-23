@@ -30,7 +30,18 @@ watching
 ```
 
 ## Use any program to run
-Next, choose any executable program to add as a non-steam game. To do that, I can create a shortcut of Firefox as an example.
+Next, choose any executable program to add as a non-steam game. To do that, I can create a shortcut of Firefox as an example.  
+
+Add firefox by clicking add a game at the bottom left of your Steam library.    
+
+![image](https://github.com/TheDaniel3131/idling-non-steam-games/assets/71692327/be7981b7-1b9a-4bcc-8d47-10e358a01bb1)
+
+<br />
+
+Browse the shortcut Firefox's file location.    
+
+![image](https://github.com/TheDaniel3131/idling-non-steam-games/assets/71692327/2e8bfe13-7a23-46a0-926c-d90b5d748c63)
+
 
 
 
