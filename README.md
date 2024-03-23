@@ -28,3 +28,9 @@ function watching {
 }
 watching
 ```
+
+## Use any program to run
+Next, choose any executable program to add as a non-steam game. To do that, I can create a shortcut of Firefox as an example.
+
+
+
