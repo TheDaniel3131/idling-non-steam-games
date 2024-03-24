@@ -5,7 +5,7 @@
 <hr>
 
 ## Create a Shell Script (.sh)
-First, create a custom shell script. You can do it like how I do below.
+First, create a custom shell script. You can do it like how I do below. You can change to anything basically.
 For examples: 
 
 ```Bash
@@ -59,6 +59,8 @@ After that, go to the properties. You can edit the application name to what you 
 
 
 #### And that is all, just run the application and it will work out. Enjoy your idle time while showing your status in Steam!
+
+#### Note: I will also keep updating this to improve because I believe it can become even better.
 
 
 <br />
