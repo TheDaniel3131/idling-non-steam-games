@@ -7,7 +7,8 @@
 
 ## Create a Shell Script (.sh)
 First, create a custom shell script. You can do it like how I do below. You can change to anything.
-For examples: 
+But the code must have a loop in order to keep the "app" alive.
+For example: 
 
 ```Bash
 #!/bin/bash
@@ -18,18 +19,6 @@ do
     	echo -e "Date & Time: $now"
 	sleep 1
 done
-```
-
-```Bash
-#!/bin/bash
-function watching {
-	echo -e "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
-	now = $(date +"%Y-%m-%d %H:%M:%S")
-    	echo -e "Date & Time: $now"
-	sleep 0.99
-	watching
-}
-watching
 ```
 <br />
 
