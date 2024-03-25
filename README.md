@@ -1,13 +1,14 @@
 # idling-non-steam-games
 
-#### Start Idling or Running Other Games/Applications are not supported in Steam to display your status in Steam using Shell Script.
-##### Yes, I am aware you can use any app to substitute as a non-steam game. This was made as a fun project and I will be updated for more information.
+#### Start Idling or Running Other Games/Applications are not supported in Steam and to display your status in Steam using Shell Script.
+##### Yes, I am aware you can use any app to substitute as a non-steam game. This was a fun project and I will be updated for more information.
 
 <hr>
 
 ## Create a Shell Script (.sh)
-First, create a custom shell script. You can do it like how I do below. You can change to anything.
-But the code must have a loop in order to keep the "app" alive.
+The purpose of shell script is to keep the app alive and running.
+
+First, create a custom shell script. You can do it like how I do below. You can change to anything but ensure that the code consists of loop or sequeunce.
 For example: 
 
 ```Bash
