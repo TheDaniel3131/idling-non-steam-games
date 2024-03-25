@@ -6,7 +6,7 @@
 <hr>
 
 ## Create a Shell Script (.sh)
-The purpose of shell script is to keep the app alive and running.
+The purpose of creating a shell script is to keep the app alive and running.
 
 First, create a custom shell script. You can do it like how I do below. You can change to anything but ensure that the code consists of loop or sequeunce.
 For example: 
