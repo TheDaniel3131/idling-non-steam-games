@@ -1,6 +1,6 @@
 # idling-non-steam-games
 
-#### Start Idling or Running Other Games/Applications are not supported in Steam and to display your status in Steam using Shell Script.
+#### Start Idling or Running as a non-steam game using Shell Script and displaying your Steam Status.
 ##### ** Yes, I am aware you can use any app to substitute as a non-steam game. This was a fun project and I will be updated for more information. **
 
 <hr>
