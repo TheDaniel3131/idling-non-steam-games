@@ -1,6 +1,6 @@
 # idling-non-steam-games
 
-#### Start Idling other games that are not supported in Steam or other applications to showcase your status in Steam! 
+#### Start Idling or Running Other Games or Applications that are not supported in Steam or other applications to showcase your status in Steam! 
 
 <hr>
 
