@@ -5,7 +5,7 @@
 <hr>
 
 ## Create a Shell Script (.sh)
-First, create a custom shell script. You can do it like how I do below. You can change to anything basically.
+First, create a custom shell script. You can do it like how I do below. You can change to anything.
 For examples: 
 
 ```Bash
