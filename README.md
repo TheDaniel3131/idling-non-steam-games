@@ -1,12 +1,15 @@
 # idling-non-steam-games
 
-#### Start Idling other games that are not supported in Steam or other applications to showcase your status in Steam! 
+#### Start Idling or Running as a non-steam game using Shell Script and displaying your Steam Status.
+##### ** Yes, I am aware you can use any app to substitute as a non-steam game. This was a fun project and I will be updated for more information. **
 
 <hr>
 
 ## Create a Shell Script (.sh)
-First, create a custom shell script. You can do it like how I do below.
-For examples: 
+The purpose of creating a shell script is to keep the app alive and running.
+
+First, create a custom shell script. You can do it like how I do below. You can change to anything but ensure that the code consists of loop or sequeunce.
+For example: 
 
 ```Bash
 #!/bin/bash
@@ -17,18 +20,6 @@ do
     	echo -e "Date & Time: $now"
 	sleep 1
 done
-```
-
-```Bash
-#!/bin/bash
-function watching {
-	echo -e "Watching VCT Madrid 2024 -> SEN Vs PRX Losers Grand Finals!"
-	now = $(date +"%Y-%m-%d %H:%M:%S")
-    	echo -e "Date & Time: $now"
-	sleep 0.99
-	watching
-}
-watching
 ```
 <br />
 
@@ -59,6 +50,8 @@ After that, go to the properties. You can edit the application name to what you 
 
 
 #### And that is all, just run the application and it will work out. Enjoy your idle time while showing your status in Steam!
+
+#### Note: I will also keep updating this to improve because I believe it can become even better.
 
 
 <br />
